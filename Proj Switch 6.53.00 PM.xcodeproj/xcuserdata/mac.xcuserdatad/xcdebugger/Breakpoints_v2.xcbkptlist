@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "63E7F7AF-C178-41FB-A601-FCC22F07F04D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E80256E1-A014-43B2-AB58-5D27A971FDF0"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "&#x6539;&#x56fe;&#x8868;&#x957f;&#x5ea6;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../test/ChartView/Sources/SwiftUICharts/LineChart/MultiLineChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "init(data:title:legend:style:form:dropShadow:valueSpecifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BD4EE6C-A557-4B00-9C6C-3961238965BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../test/ChartView/Sources/SwiftUICharts/LineChart/MultiLineChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "init(data:title:legend:style:form:dropShadow:valueSpecifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE586EAD-3B1D-43D3-A3DA-E1752B3CA6A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../test/ChartView/Sources/SwiftUICharts/LineChart/MultiLineChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "init(data:title:legend:style:form:dropShadow:valueSpecifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8495FB01-BD37-4258-AF5A-B8627E9BCC9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../test/ChartView/Sources/SwiftUICharts/LineChart/MultiLineChartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "init(data:title:legend:style:form:dropShadow:valueSpecifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
